@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JobInterview.Server/JobInterview.WebApi/obj
+/JobInterview.Server/JobInterview.WebApi/bin
+/JobInterview.Server/JobInterview.Data.Tests/bin
+/JobInterview.Server/JobInterview.Data.Tests/obj
+/JobInterview.Server/JobInterview.Data/bin/
+/JobInterview.Server/JobInterview.Data/obj
+/JobInterview.Server/.vs/
